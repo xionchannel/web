@@ -1,7 +1,5 @@
 Electromaster
 
-ver1.0
-Jap
 電撃を放って敵をやっつけよう！
 うじゃうじゃいるアイツらを一掃だー！
 
@@ -10,10 +8,6 @@ Jap
 発射中はタッチしたりドラッグすると電撃の方向が変わるよ。
 溜めれば溜めるほど長く放電できるから頑張ってね。
 
-OpenFeint対応！
-がんばって実績解除しよう！
-
-Eng
 Let's beat enemies by shooting the electro shock! 
 Sweep away enemies whom there is a lot! 
 
@@ -21,6 +15,3 @@ How to play is simple.
 While you keep touching, the electro energy is charged up, and shoot by releasing your finger!
 The direction of the electro shock can be changed by touching and dragging.
 The electro shock can be discharged as long as you keep charging energy. You'd better to escape enemies for charging energy.
-
-Unlock achievements of OpenFeint!
-Good Luck!
